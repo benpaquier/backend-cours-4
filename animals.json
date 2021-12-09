@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "breed": "dog",
+    "color": "white",
+    "legs": 4
+  },
+  {
+    "id": 2,
+    "breed": "spider",
+    "color": "yellow",
+    "legs": 8
+  },
+  {
+    "id": 3,
+    "breed": "cat",
+    "color": "blue",
+    "legs": 4
+  },
+  {
+    "id": 4,
+    "breed": "human",
+    "color": "rainbow",
+    "legs": 2
+  }
+]
